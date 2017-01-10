@@ -1,0 +1,25 @@
+{
+    "personal-exemption": 4050,
+    "personal-exemption-phaseout": [
+        {
+            "filing-status": "single",
+            "minimum": 259400,
+            "maximum": 381900
+        },
+        {
+            "filing-status": "married-filing-jointly",
+            "minimum": 311300,
+            "maximum": 433800
+        },
+        {
+            "filing-status":"married-filing-separately", 
+            "minimum":155650,
+            "maximum":216900
+        },
+        {
+            "filing-status":"head-of-household",
+            "minimum":285350,
+            "maximum":407850
+        }
+    ]
+}

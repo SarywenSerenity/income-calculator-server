@@ -1,0 +1,17 @@
+{
+  "name": "server-api",
+  "version": "0.0.1",
+  "description": "Server side api for income calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "income",
+    "calculator",
+    "finance",
+    "finances"
+  ],
+  "author": "Karen Schlorer",
+  "license": "UNLICENSED"
+}

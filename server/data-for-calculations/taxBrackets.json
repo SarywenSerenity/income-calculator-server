@@ -1,0 +1,202 @@
+[
+    {
+        "filing-status": "single",
+        "tax": [
+            {
+                "rate": 0.10,
+                "minimum": 0,
+                "maximum": 9275
+            },
+            {
+                "rate": 0.15,
+                "minimum": 9276,
+                "maximum": 37650
+            },
+            {
+                "rate": 0.25,
+                "minimum": 37651,
+                "maximum": 91150
+            },
+            {
+                "rate": 0.28,
+                "minimum": 91151,
+                "maximum": 190150
+            },
+            {
+                "rate": 0.33,
+                "minimum": 190151,
+                "maximum": 413350
+            },
+            {
+                "rate": 0.35,
+                "minimum": 413351,
+                "maximum": 415050
+            },
+            {
+                "rate": 0.396,
+                "minimum": 415051,
+                "maximum": null
+            }
+        ]
+    },
+    {
+        "filing-status": "married-filing-jointly",
+        "tax": [
+            {
+                "rate": 0.10,
+                "minimum": 0,
+                "maximum": 18550
+            },
+            {
+                "rate": 0.15,
+                "minimum": 18551,
+                "maximum": 75300
+            },
+            {
+                "rate": 0.25,
+                "minimum": 75301,
+                "maximum": 151900
+            },
+            {
+                "rate": 0.28,
+                "minimum": 151901,
+                "maximum": 231450
+            },
+            {
+                "rate": 0.33,
+                "minimum": 231451,
+                "maximum": 413350
+            },
+            {
+                "rate": 0.35,
+                "minimum": 413351,
+                "maximum": 466950
+            },
+            {
+                "rate": 0.396,
+                "minimum": 466951,
+                "maximum": null
+            }
+        ]
+    },
+    {
+        "filing-status": "qualifying-widow(er)",
+        "tax": [
+            {
+                "rate": 0.10,
+                "minimum": 0,
+                "maximum": 18550
+            },
+            {
+                "rate": 0.15,
+                "minimum": 18551,
+                "maximum": 75300
+            },
+            {
+                "rate": 0.25,
+                "minimum": 75301,
+                "maximum": 151900
+            },
+            {
+                "rate": 0.28,
+                "minimum": 151901,
+                "maximum": 231450
+            },
+            {
+                "rate": 0.33,
+                "minimum": 231451,
+                "maximum": 413350
+            },
+            {
+                "rate": 0.35,
+                "minimum": 413351,
+                "maximum": 466950
+            },
+            {
+                "rate": 0.396,
+                "minimum": 466951,
+                "maximum": null
+            }
+        ]
+    },
+    {
+        "filing-status": "married-filing-separately",
+        "tax": [
+            {
+                "rate": 0.10,
+                "minimum": 0,
+                "maximum": 9275
+            },
+            {
+                "rate": 0.15,
+                "minimum": 9276,
+                "maximum": 37650
+            },
+            {
+                "rate": 0.25,
+                "minimum": 37651,
+                "maximum": 75950
+            },
+            {
+                "rate": 0.28,
+                "minimum": 75951,
+                "maximum": 115725
+            },
+            {
+                "rate": 0.33,
+                "minimum": 115726,
+                "maximum": 206675
+            },
+            {
+                "rate": 0.35,
+                "minimum": 206676,
+                "maximum": 233475
+            },
+            {
+                "rate": 0.396,
+                "minimum": 233476,
+                "maximum": null
+            }
+        ]
+    },
+    {
+        "filing-status": "head-of-household",
+        "tax": [
+            {
+                "rate": 0.10,
+                "minimum": 0,
+                "maximum": 13250
+            },
+            {
+                "rate": 0.15,
+                "minimum": 13251,
+                "maximum": 50400
+            },
+            {
+                "rate": 0.25,
+                "minimum": 50401,
+                "maximum": 130150
+            },
+            {
+                "rate": 0.28,
+                "minimum": 130151,
+                "maximum": 210800
+            },
+            {
+                "rate": 0.33,
+                "minimum": 210801,
+                "maximum": 413350
+            },
+            {
+                "rate": 0.35,
+                "minimum": 413351,
+                "maximum": 441000
+            },
+            {
+                "rate": 0.396,
+                "minimum": 441001,
+                "maximum": null
+            }
+        ]
+    }
+]

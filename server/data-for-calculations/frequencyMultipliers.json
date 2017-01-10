@@ -1,0 +1,22 @@
+[
+    {
+        "frequency": "annually",
+        "multiplier": 1
+    },
+    {
+        "frequency": "quarterly",
+        "multiplier": 4
+    },
+    {
+        "frequency": "monthly",
+        "multiplier": 12
+    },
+    {
+        "frequency": "bi-weekly",
+        "multiplier": 26
+    },
+    {
+        "frequency": "weekly",
+        "multiplier": 52
+    }
+]

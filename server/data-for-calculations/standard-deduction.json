@@ -1,0 +1,30 @@
+[
+    {
+        "status": "single",
+        "deduction": 6300
+    },
+    {
+        "status": "married-filing-jointly",
+        "deduction": 12600
+    },
+    {
+        "status": "married-filing-separately",
+        "deduction": 6300
+    },
+    {
+        "status": "head-of-household",
+        "deduction": 9300
+    },
+    {
+        "status": "qualifying-widow(er)",
+        "deduction": 12600
+    },
+    {
+        "status": "elderly/blind",
+        "deduction": 1250
+    },
+    {
+        "status": "additional-standard-increase",
+        "deduction": 300
+    }
+]
